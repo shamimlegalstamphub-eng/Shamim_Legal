@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shamim Legal & Stamp Hub</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="container">
+        <h1>Shamim Legal & Stamp Hub</h1>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#services">Services</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </div>
+</header>
+
+<section class="hero">
+    <div class="hero-content">
+        <h2>Legal Documentation Services</h2>
+        <p>Fast, Reliable & Affordable Documentation Support</p>
+
+        <a href="https://forms.gle/DgQjBaAyf9yBMpvP9" target="_blank" class="btn">
+            Apply Now
+        </a>
+
+        <a href="https://wa.me/917348598924" target="_blank" class="btn whatsapp">
+            WhatsApp Us
+        </a>
+    </div>
+</section>
+
+<section id="about" class="section">
+    <h2>About Us</h2>
+
+    <p>
+        Shamim Legal & Stamp Hub provides documentation assistance
+        and drafting support for various legal documents.
+    </p>
+
+    <p>
+        We help customers prepare documents efficiently and
+        professionally while following generally accepted practices in India.
+    </p>
+</section>
+
+<section id="services" class="section">
+    <h2>Our Services</h2>
+
+    <ul>
+        <li>e-Stamp Paper Assistance</li>
+        <li>Affidavit Drafting Support</li>
+        <li>Rent Agreement Preparation</li>
+        <li>Indemnity Bond Drafting</li>
+        <li>Document Formatting & Typing Support</li>
+    </ul>
+</section>
+
+<section class="section disclaimer">
+    <h2>Important Disclaimer</h2>
+
+    <p>
+        We are not a law firm and do not provide legal advice
+        or court representation.
+    </p>
+
+    <p>Our services are limited to:</p>
+
+    <ul>
+        <li>Document preparation support</li>
+        <li>Formatting assistance</li>
+        <li>e-Stamp and agreement documentation support</li>
+        <li>Document creation based on customer-provided information</li>
+    </ul>
+</section>
+
+<section class="section">
+    <h2>Why Choose Us</h2>
+
+    <ul>
+        <li>Fast Response</li>
+        <li>Clear Communication</li>
+        <li>Affordable Service</li>
+        <li>Transparent Process</li>
+        <li>Customer-Focused Support</li>
+    </ul>
+</section>
+
+<section id="contact" class="section">
+    <h2>Contact Us</h2>
+
+    <p><strong>WhatsApp:</strong> 7348598924</p>
+
+    <a href="https://wa.me/917348598924" target="_blank" class="btn whatsapp">
+        Chat on WhatsApp
+    </a>
+</section>
+
+<footer>
+    <p>© 2025 Shamim Legal & Stamp Hub. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
