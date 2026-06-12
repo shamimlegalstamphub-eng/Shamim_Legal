@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shamimlegalstamphub-eng.github.io/Shamim_Legal/sitemap.xml
