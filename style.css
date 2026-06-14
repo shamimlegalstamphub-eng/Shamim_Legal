@@ -189,4 +189,35 @@ font-size:30px;
 padding:40px 20px;
 }
 
+}.search-box{
+width:100%;
+padding:15px;
+font-size:18px;
+border-radius:10px;
+border:1px solid #ccc;
+outline:none;
+background:#fff;
+margin-top:15px;
+}
+
+.search-box:focus{
+border:2px solid #0b1f3a;
+}
+
+.floating-whatsapp{
+position:fixed;
+bottom:20px;
+right:20px;
+background:#25D366;
+color:white;
+width:60px;
+height:60px;
+display:flex;
+align-items:center;
+justify-content:center;
+border-radius:50%;
+font-size:28px;
+text-decoration:none;
+z-index:9999;
+box-shadow:0 4px 10px rgba(0,0,0,.3);
 }
